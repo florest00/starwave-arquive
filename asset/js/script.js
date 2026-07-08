@@ -345,7 +345,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   /* ============== album mobile_txt 동기화 ============== */
   function updateAlbumMobileTxt(swiper) {
-    const activeSlide = swiper.slides[swiper.realIndex];
+    const activeSlide = swiper.slides[swiper.activeIndex];
     const t01 = activeSlide?.querySelector(".t01")?.innerText.trim();
     const t02 = activeSlide?.querySelector(".t02")?.innerText.trim();
     const mobileTxt = document.querySelector(".albumSwiper .mobile_txt");
