@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_레이어_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 38 36">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #FFDB58;
+      }
+
+      .st1 {
+        fill: none;
+        stroke: #FFDB58;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <line class="st1" y1="18" x2="33.39" y2="18"/>
+  <polygon class="st0" points="19.3 35.38 16.41 32.27 31.76 18 16.41 3.74 19.3 .62 38 18 19.3 35.38"/>
+</svg>
